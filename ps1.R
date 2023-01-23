@@ -1,3 +1,6 @@
+#Daniel Rudy
+#GSPIA Intermediate Quant
+#22 November 2023
 #Problem 1
 #The standard Deviation of the sampling distribution of the sample mean is equal to the population standard deviation divded by sqrt(n)
 #3/sqrt(100)=.3
